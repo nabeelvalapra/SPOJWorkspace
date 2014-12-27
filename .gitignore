@@ -1,0 +1,5 @@
+*.pyc
+*.swm
+*.swp
+a.out
+/Imp/*.png
