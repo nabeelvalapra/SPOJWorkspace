@@ -1,0 +1,4 @@
+SPOJWorkspace
+=============
+
+My SPOJ Solutions
